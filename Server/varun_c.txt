@@ -1,0 +1,1 @@
+F|MM/DD/YY|HH:MM|MM/DD/YY|HH:MM|seq|place|Description|

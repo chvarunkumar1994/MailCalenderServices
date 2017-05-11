@@ -1,0 +1,4 @@
+F|MM/DD/YY|HH:MM|MM/DD/YY|HH:MM|seq|place|Description|
+M|10/01/2000|10:00|10/01/2001|11:00|019|keshav,admin|lksadf|aksldf|
+M|10/01/2000|02:00|10/01/2000|03:00|020|keshav,admin|lksadf|aslkdf|
+A|01/01/1987|04:00|01/01/1987|05:00|022|keshav,varun,admin|sadf|asdf|
